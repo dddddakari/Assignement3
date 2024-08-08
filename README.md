@@ -16,4 +16,3 @@ o	A scripts folder containing one or more JS files, named semantically
 •	A screenshot showing successful validation of your CSS from http://jigsaw.w3.org/css-validator/
 •	A screenshot showing successful validation of your JavaScript file from https://beautifytools.com/javascript-validator.php
 4.	Submit your assignment by the due date listed in Brightspace. See the marking criteria below for details on how you will be assessed.
-
